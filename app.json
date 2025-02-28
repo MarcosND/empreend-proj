@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "MyMinimalApp",
+    "slug": "MyMinimalApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.vnmoliveira.MyMinimalApp"
+    },
+    "web": {
+
+    },
+    "extra": {
+      "eas": {
+        "projectId": "84e2c19e-9f50-401e-bea4-dbc3bf8864fa"
+      }
+    }
+  }
+}
